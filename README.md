@@ -9,4 +9,4 @@ Point your domain's DNS at this:
 
 | Type | Name | Value | TTL |
 | ---- | ---- | ----- | --- |
-| CNAME | @ | parking.obl.ong | 300 |
+| CNAME or ALIAS | @ | parking.obl.ong | 300 |
