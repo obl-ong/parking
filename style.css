@@ -1,0 +1,35 @@
+body {
+  background-color: #343434;
+  margin: 0;
+  padding: 0;
+}
+
+.freeze {
+  color: #FF206E;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+}
+
+h1,code,p {
+  color: white;
+  text-align: center;
+}
+
+code {
+  display: flex;
+  gap: 20px;
+  background-color: #1E1E1E;
+  color: #00FF00;
+  padding: 0.5rem;
+}
+
+.oblong {
+  margin-top: 5rem;
+}
