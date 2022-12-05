@@ -1,7 +1,17 @@
+@font-face {
+  font-family: "Telegraf";
+  src: url("PPTelegraf-Variable.woff2") format("woff2");
+}
+
+
 body {
   background-color: #343434;
   margin: 0;
   padding: 0;
+}
+
+h1,p {
+  font-family: "Telegraf", system-ui;
 }
 
 .freeze {
